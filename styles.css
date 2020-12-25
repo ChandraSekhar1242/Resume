@@ -15,6 +15,9 @@ h1{
   font-size: 40px;
 
 }
+img{
+  border-radius: 50%;
+}
 h3
 {
   color: #65D6CE;
